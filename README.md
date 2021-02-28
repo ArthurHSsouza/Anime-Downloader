@@ -6,7 +6,7 @@
    - Clone o repositório
    - Instale as dependências
    - Intale o Geckodriver e adicione no path do sistema
-   - Adicione o Path do binário do Firefox no script
+   - Adicione o Path do binário do Firefox no script na linha 6 (objeto options)
    - Execute o script principal
    - Digite o nome do anime e, caso ele seja encontrado, digite o episódio
  
