@@ -5,8 +5,10 @@
 
    - Clone o repositório
    - Instale as dependências
+   - Intale o Geckodriver e adicione no path do sistema
+   - Adicione o Path do binário do Firefox no script
    - Execute o script principal
-   - Digite o nome do anime e o episódio
+   - Digite o nome do anime e, caso ele seja encontrado, digite o episódio
  
  
  ## Dependências gerais
@@ -14,6 +16,7 @@
    - Selenium WebDriver
    - Node.js
    - Firefox (mas podem ser usados outros navegadores, caso as configurações do WebDriver sejam trocadas)
+   - Geckodriver
 
 ## Módulos NPM
 
